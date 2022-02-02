@@ -10,17 +10,21 @@ Adtam magamak egy `kezdő programozói`[^1] feladatot, amiben egy e-mailt kell k
 
 Az alábbi szövegben elrejtettem egy üzenetet, a te feladatod az lenne, hogy találd meg ha mered!
 
-Az üzenet az "A" és "B" mező között található elrejtve.
+>Az üzenet az "A" és "B" mező között található elrejtve.
 ### A ??? <!-- Nagyon büdi a feneked blöö --> B
 
 
 - [x] Megfejtésért jutalom jár: 
 egy bármikor beváltható [mr Döjmi](https://ibb.co/q9rLp5V) vagy [főzök](https://ibb.co/3k5r4Y0) neked bármit digitális kupon.
 
+#
+```
+Szeretlek! 
+```
+![il_570xN 3319138214_adte](https://user-images.githubusercontent.com/98794995/152234301-3ba550f7-9ea9-40c4-85a3-469da5d4e938.jpg)
 
 
-
-Szeretett [Epcidtől!](https://ibb.co/RCwVBWz) :  :cupid:
+## *Szeretett [Epcidtől!](https://ibb.co/RCwVBWz)* :  :cupid: ##
 
 
 #### *Hint: Nice preview. :1234:* ####

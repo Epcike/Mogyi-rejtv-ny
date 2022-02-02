@@ -14,7 +14,7 @@ Az üzenet az "A" és "B" mező között található elrejtve.
 
 
 - [x] Megfejtésért jutalom jár: 
-```egy bármikor beváltható mr Döjmi vagy főzök neked bármit digitális kártya.```
+egy bármikor beváltható [mr Döjmi](https://ibb.co/q9rLp5V) vagy [főzök](https://ibb.co/3k5r4Y0) neked bármit digitális kártya.
 
 
 

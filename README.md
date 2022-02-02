@@ -15,7 +15,7 @@ Az alábbi szövegben elrejtettem egy üzenetet, a te feladatod az lenne, hogy t
 
 
 - [x] Megfejtésért jutalom jár: 
-egy bármikor beváltható [mr Döjmi](https://ibb.co/q9rLp5V) vagy [főzök](https://ibb.co/3k5r4Y0) neked bármit digitális kupon.
+egy bármikor beváltható [mr Döjmi](https://ibb.co/q9rLp5V) vagy [főzök](https://ibb.co/3k5r4Y0) neked bármit digitális [kupon](https://ibb.co/FDVdV7T).
 
 #
 ```
